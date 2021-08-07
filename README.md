@@ -1,7 +1,8 @@
 ## Evandro Gonçalves 
  <div>
   <a href="https://github.com/underline84">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=underline84&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=underline84&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+    
 </div>
  
 <div style="display: inline_block"><br>
